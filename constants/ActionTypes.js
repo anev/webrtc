@@ -1,0 +1,11 @@
+export const GOT_MESSAGE = 'GOT_MESSAGE';
+export const SEND_MESSAGE = 'SEND_MESSAGE';
+export const HISTORY = 'HISTORY';
+export const SEND_HISTORY = 'SEND_HISTORY';
+export const CHANGE_NAME = 'CHANGE_NAME';
+export const WHO = 'WHO';
+export const SERVICE = 'SERVICE';
+export const IAM_ALIVE = 'IAM_ALIVE';
+export const MY_ID = 'MY_ID';
+export const TOOGLE_HEART = 'TOOGLE_HEART';
+export const HINT = 'HINT';
